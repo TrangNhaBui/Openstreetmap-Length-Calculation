@@ -1,12 +1,5 @@
 from Core import *
-print('----------WELCOME TO NHÃ TOOL----------')
-print("---Let's calculate length from Openstreetmap data---")
-print("")
-print('Input changeset to calculate length of road, Please press 1  ')
-print('Input way to calculate length of road, Please press 2    ')
-print('Query by user, token and date, Please press 3    ')
-print('If  you wanna out, Please press 0    ')
-print('\n')
+menu()
 option=int(input("Enter your option: "))
 
 
