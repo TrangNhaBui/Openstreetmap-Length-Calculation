@@ -7,5 +7,5 @@ Methods: Choosing 1 in 3 categories: Way id, Changesets on OSM or Username and U
 How to do: Using bs4.BeautifulSoup, Request., Json. and math.
 There are 4 parts of source code but I just push three of them.
 Hmmmmmm, Beacause of sth inconvenience to say, if u wanna pull or take whole source code, Please contact to me through trangnhagg@gmail.com.
-Finally, Have a good day and fell free to contact to me if you need.
+Finally, Have a good day and feel free to contact to me if you need.
 See yaaaaa <3
